@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-My Name is Kin Shah. I am a Software Engineer / SRE - @Bloomberg.
+My Name is Kin Shah. I am a Sr. Software Engineer / Site Reliability Engineer (SRE) - @Bloomberg.
 
 - 🔭 I’m currently working on implementing operational visibility - mainly using MetricTank and Grafana. 
 - 💬 Ask me about RDBMS and automation :
     - [MS SQL Server](https://www.microsoft.com/en-us/sql-server) 
     - [MySQL](https://www.mysql.com/)
     - [Postgres](https://www.postgresql.org/) 
-- I contribute at [dba.stackexchange](https://dba.stackexchange.com/users/8783/kin-shah?tab=profile)
+- I contribute on [dba.stackexchange](https://dba.stackexchange.com/users/8783/kin-shah?tab=profile)
 - I am planning to blog at [my personal site](https://therockstardba.github.io/kin-dbsre/)
 - 😄 Pronouns: He / Him
 
