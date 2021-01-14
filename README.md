@@ -8,7 +8,7 @@ My Name is Kin Shah. I am a Sr. Software Engineer / Site Reliability Engineer (S
     - [MySQL](https://www.mysql.com/)
     - [Postgres](https://www.postgresql.org/) 
 - I contribute on [dba.stackexchange](https://dba.stackexchange.com/users/8783/kin-shah?tab=profile)
-- I am planning to blog at [my personal site](https://therockstardba.github.io/kin-dbsre/)
+- I am blog at [my personal site](https://therockstardba.github.io/kin-dbsre/) on some interesting topics.
 - 😄 Pronouns: He / Him
 
 I love automation, opensource, PowerShell & Python !
